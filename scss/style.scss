@@ -1,0 +1,12 @@
+@charset "UTF-8";
+@import "_base/config",
+        "_base/headings",
+        "_base/headings";
+@import "_modules/accordian",
+        "_modules/b-buttons";
+@import "_layouts/default";
+.but {
+  background-color: $button-bgcolor;
+  height: 20px;
+  width: 20px;
+}
